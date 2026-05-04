@@ -26,4 +26,3 @@ You will watch these videos at home:
 
 [Beginner Video Course](https://docs.n8n.io/video-courses/#beginner)
 
-
